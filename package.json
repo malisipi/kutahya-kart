@@ -1,0 +1,15 @@
+{
+  "name": "kutahya-kart",
+  "version": "1.0.0",
+  "description": "",
+  "author": "malisipi",
+  "license": "Apache-2.0",
+  "scripts": {
+  	"rollup": "npx rollup -p @rollup/plugin-node-resolve js/rollup.js -o js/bundle.js"
+  },
+  "dependencies": {
+    "@material/web": "^1.1.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup": "^4.9.2"
+  }
+}

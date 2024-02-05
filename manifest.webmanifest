@@ -1,0 +1,29 @@
+{
+    "short_name": "Kütahya Kart",
+    "name": "Kütahya Kart",
+    "icons": [
+      {
+        "src": "./assets/Vector.svg",
+        "type": "image/svg+xml",
+        "sizes": "512x512"
+      },
+      {
+        "src": "./assets/192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./assets/512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "./?pwa=true",
+    "background_color": "#191970",
+    "display": "standalone",
+    "scope": "./",
+    "theme_color": "#191970",
+    "shortcuts": [],
+    "description": "Kütahya Kart",
+    "screenshots": []
+}
